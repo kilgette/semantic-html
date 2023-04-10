@@ -3,7 +3,7 @@
 Name: Amy Kilgour
 
 Please click [https://kilgette.github.io/semantic-html/](https://kilgette.github.io/semantic-html/) to view the live version.  
-! [Here is a screenshot of the page] ('./assets/images/screenshot.jpg')
+! [Here is a screenshot of the page] (./assets/images/screenshot.jpg)
 
 Objective: Refractor the code to add Semantic HTML elements. 
 
