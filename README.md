@@ -1,8 +1,9 @@
-# Semantic HTML Homework Assignment
+## Semantic HTML Homework Assignment
 
 Name: Amy Kilgour
-Please click here[https://kilgette.github.io/semantic-html/](https://kilgette.github.io/semantic-html/) to view the live version.  
-![Here is a screenshot of the page] ('./assets/screenshot.jpg')
+
+Please click [https://kilgette.github.io/semantic-html/](https://kilgette.github.io/semantic-html/) to view the live version.  
+! [Here is a screenshot of the page] ('./assets/images/screenshot.jpg')
 
 Objective: Refractor the code to add Semantic HTML elements. 
 
