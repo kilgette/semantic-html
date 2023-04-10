@@ -1,7 +1,8 @@
 # Semantic HTML Homework Assignment
 
 Name: Amy Kilgour
-Open [https://github.com/kilgette/semantic-html] with your browser to view my homework. 
+Please click here[https://kilgette.github.io/semantic-html/](https://kilgette.github.io/semantic-html/) to view the live version.  
+![Here is a screenshot of the page] ('./assets/screenshot.jpg')
 
 Objective: Refractor the code to add Semantic HTML elements. 
 
@@ -10,5 +11,7 @@ Semantic HTML is important as it makes HTML more comprehensible by better defini
 sections and layouts of a webpage. This allows important human accessibility tools and browsers 
 to better interpret and index content. 
 
-What I Learned: 
+What I Learned: It's not necessary to memorize all eligable semantic elements. Being familiar
+and using Google is sufficient. I also increased my familiarity with how CSS and HTML files 
+link and work together on a page. 
 
